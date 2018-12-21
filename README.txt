@@ -1,2 +1,1 @@
-Name - Himanshu Chotwani
-Student# - 39315163
+classical problems in synchronization, multi-threading
